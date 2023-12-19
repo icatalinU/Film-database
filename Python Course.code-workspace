@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../JustIT BOOTCAMP/Python Course"
+		},
+		{
+			"path": "../JustIT BOOTCAMP/Week-9-python/Week 9 Code template/Pt7_FilesDictsCodeBase"
+		},
+		{
+			"path": "../JustIT BOOTCAMP/Week-9-python/Week 9 Code template/Pt8_Exceptions_CollectionsCodeBase"
+		},
+		{
+			"path": "../python Database"
+		},
+		{
+			"path": "../100 days of code practice folder"
+		},
+		{
+			"path": "../python Database JUST IT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Python Course"
+	}
+}
